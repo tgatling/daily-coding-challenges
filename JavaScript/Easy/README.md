@@ -1,19 +1,19 @@
-# [Language/Difficulty Level] LeetCode Solutions
+# JavaScript / Easy LeetCode Solutions
 
-This directory contains my solutions to [Language/Difficulty Level] LeetCode problems.
+This directory contains my solutions to JavaScript / Easy LeetCode problems.
 
 ## Problems Solved
 
 | #  | Title | Solution | Date Completed | Notes |
 |----|-------|----------|----------------|-------|
-| 1  | [Problem Name](problem_link) | [Solution File](solution_link) | YYYY-MM-DD | Brief notes or learnings |
+| 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | [two-sum.js](./2024-07-08-two-sum.js) | 2024-07-08 | Used nested loops for O(n^2) solution |
 
 ## Statistics
 
-- Total problems solved: [Number]
-- Easy: [Number]
-- Medium: [Number]
-- Hard: [Number]
+- Total problems solved: 1
+- Easy: 1
+- Medium: 0
+- Hard: 0
 
 ## Key Learnings
 
