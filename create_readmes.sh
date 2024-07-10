@@ -14,6 +14,7 @@ This directory contains my solutions to [Language/Difficulty Level] LeetCode pro
 ## Statistics
 
 - Total problems solved: [Number]
+- Multiple solutions: [Number]
 - Easy: [Number]
 - Medium: [Number]
 - Hard: [Number]
