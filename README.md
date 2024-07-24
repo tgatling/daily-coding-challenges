@@ -48,19 +48,19 @@ Each language directory contains subdirectories for different difficulty levels,
 | Java       |  0   |   0    |  0   |   0   |
 | JavaScript |  2   |   0    |  0   |   2   |
 | Python     |  0   |   0    |  0   |   0   |
-| TypeScript |  1   |   0    |  0   |   1   |
-| Total      |  3   |   0    |  0   |   3   |
+| TypeScript |  3   |   0    |  0   |   3   |
+| Total      |  5   |   0    |  0   |   5   |
 
 ## Recent Activity
 
-### This Month (July 2024): 3 problems solved
+### This Month (July 2024): 5 problems solved
 
 ### Last 5 Solutions:
-1. [125. Valid Palindrome](./TypeScript/Easy/2024-07-23-valid-palindrome.ts) (TypeScript, Easy) - July 23, 2024
-2. [88. Merge Sorted Array](./JavaScript/Easy/2024-07-10-merge-sorted-array.js) (JavaScript, Easy) - July 10, 2024
-3. [1. Two Sum](./JavaScript/Easy/2024-07-08-two-sum.js) (JavaScript, Easy) - July 8, 2024
-4. [Problem Name](./link-to-solution) (Language, Difficulty) - Date
-5. [Problem Name](./link-to-solution) (Language, Difficulty) - Date
+1. [88. Merge Sorted Array](./TypeScript/Easy/2024-07-24-merge-sort-array.ts) (TypeScript, Easy) - July 24, 2024
+2. [1. Two Sum](./TypeScript/Easy/2024-07-24-two-sum.ts) (TypeScript, Easy) - July 24, 2024
+3. [125. Valid Palindrome](./TypeScript/Easy/2024-07-23-valid-palindrome.ts) (TypeScript, Easy) - July 23, 2024
+4. [88. Merge Sorted Array](./JavaScript/Easy/2024-07-10-merge-sorted-array.js) (JavaScript, Easy) - July 10, 2024
+5. [1. Two Sum](./JavaScript/Easy/2024-07-08-two-sum.js) (JavaScript, Easy) - July 8, 2024
 
 ## Learning Log
 
