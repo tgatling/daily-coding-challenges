@@ -8,8 +8,33 @@
 - Always consider the trade-offs between time and space complexity when solving problems.
 - Thoroughly understanding problem constraints is crucial for developing optimal solutions.
 - Revisiting and optimizing previous solutions can lead to significant improvements in efficiency.
+- Regular expressions are useful for string manipulation and cleaning in various programming languages.
+- Palindrome checking can be implemented efficiently using string reversal or two-pointer technique.
+- Implementing solutions in multiple languages reinforces understanding and highlights language-specific features.
 
 ### Entries
+
+#### 2024-07-24 - [Merge Sorted Array](./TypeScript/Easy/2024-07-24-merge-sort-array.ts)
+- Implemented the Merge Sorted Array problem in TypeScript.
+- Used a simple approach of merging arrays and then sorting.
+- Learned about TypeScript's array methods and sorting with a custom compare function.
+- Recognized that while this solution works, it's not the most efficient in terms of time complexity.
+- Future improvement: Implement a solution that merges the arrays in-place without using the built-in sort method.
+
+#### 2024-07-24 - [Two Sum](./TypeScript/Easy/2024-07-24-two-sum.ts)
+- Solved the Two Sum problem in TypeScript using a hash map approach.
+- Utilized TypeScript's Map object for efficient lookups.
+- Achieved O(n) time complexity by making only one pass through the array.
+- Reinforced the importance of choosing the right data structure for optimal performance.
+
+[Previous entries remain...]
+
+#### 2024-07-23 - [Valid Palindrome](./TypeScript/Easy/2024-07-23-valid-palindrome.ts)
+- Implemented a solution for checking if a string is a valid palindrome in TypeScript.
+- Used regular expressions to remove non-alphanumeric characters from the input string.
+- Learned about TypeScript's string methods like toLowerCase(), split(), reverse(), and join().
+- Explored the concept of palindrome checking using string manipulation.
+- Considered the possibility of more space-efficient solutions that don't require creating a new reversed string.
 
 #### 2024-07-10 - [Merge Sorted Array](./JavaScript/Easy/2024-07-10-merge-sorted-array.js)
 - Reviewed in-place array manipulation to optimize space complexity.

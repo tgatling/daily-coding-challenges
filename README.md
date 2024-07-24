@@ -26,6 +26,10 @@ Hi, I'm Tequesha McKinnon. I'm passionate about coding and constantly striving t
 │   ├── Easy/
 │   ├── Medium/
 │   └── Hard/
+├── TypeScript/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
 └── [Other Languages...]
 ```
 
@@ -44,17 +48,17 @@ Each language directory contains subdirectories for different difficulty levels,
 | Java       |  0   |   0    |  0   |   0   |
 | JavaScript |  2   |   0    |  0   |   2   |
 | Python     |  0   |   0    |  0   |   0   |
-| TypeScript |  0   |   0    |  0   |   0   |
-| Total      |  2   |   0    |  0   |   2   |
+| TypeScript |  1   |   0    |  0   |   1   |
+| Total      |  3   |   0    |  0   |   3   |
 
 ## Recent Activity
 
-### This Month (July 2024): 2 problems solved
+### This Month (July 2024): 3 problems solved
 
 ### Last 5 Solutions:
-1. [88. Merge Sorted Array](./JavaScript/Easy/2024-07-10-merge-sorted-array.js) (JavaScript, Easy) - July 10, 2024
-2. [1. Two Sum](./JavaScript/Easy/2024-07-08-two-sum.js) (JavaScript, Easy) - July 8, 2024
-3. [Problem Name](./link-to-solution) (Language, Difficulty) - Date
+1. [125. Valid Palindrome](./TypeScript/Easy/2024-07-23-valid-palindrome.ts) (TypeScript, Easy) - July 23, 2024
+2. [88. Merge Sorted Array](./JavaScript/Easy/2024-07-10-merge-sorted-array.js) (JavaScript, Easy) - July 10, 2024
+3. [1. Two Sum](./JavaScript/Easy/2024-07-08-two-sum.js) (JavaScript, Easy) - July 8, 2024
 4. [Problem Name](./link-to-solution) (Language, Difficulty) - Date
 5. [Problem Name](./link-to-solution) (Language, Difficulty) - Date
 
