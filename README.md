@@ -30,6 +30,10 @@ Hi, I'm Tequesha McKinnon. I'm passionate about coding and constantly striving t
 │   ├── Easy/
 │   ├── Medium/
 │   └── Hard/
+├── Java/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
 └── [Other Languages...]
 ```
 
@@ -45,22 +49,22 @@ Each language directory contains subdirectories for different difficulty levels,
 
 | Language   | Easy | Medium | Hard | Total |
 |------------|------|--------|------|-------|
-| Java       |  0   |   0    |  0   |   0   |
-| JavaScript |  2   |   0    |  0   |   2   |
+| Java       |  1   |   0    |  0   |   1   |
+| JavaScript |  4   |   0    |  0   |   4   |
 | Python     |  0   |   0    |  0   |   0   |
 | TypeScript |  3   |   0    |  0   |   3   |
-| Total      |  5   |   0    |  0   |   5   |
+| Total      |  8   |   0    |  0   |   8   |
 
 ## Recent Activity
 
-### This Month (July 2024): 5 problems solved
+### This Month (July 2024): 8 problems solved
 
 ### Last 5 Solutions:
-1. [88. Merge Sorted Array](./TypeScript/Easy/2024-07-24-merge-sort-array.ts) (TypeScript, Easy) - July 24, 2024
-2. [1. Two Sum](./TypeScript/Easy/2024-07-24-two-sum.ts) (TypeScript, Easy) - July 24, 2024
-3. [125. Valid Palindrome](./TypeScript/Easy/2024-07-23-valid-palindrome.ts) (TypeScript, Easy) - July 23, 2024
-4. [88. Merge Sorted Array](./JavaScript/Easy/2024-07-10-merge-sorted-array.js) (JavaScript, Easy) - July 10, 2024
-5. [1. Two Sum](./JavaScript/Easy/2024-07-08-two-sum.js) (JavaScript, Easy) - July 8, 2024
+1. [Second Maximum Number in an Array](./Java/Easy/2024-07-31-second-maximum-number.java) (Java, Easy) - July 31, 2024
+2. [Second Maximum Number in an Array](./JavaScript/Easy/2024-07-30-second-maximum-number.js) (JavaScript, Easy) - July 30, 2024
+3. [88. Merge Sorted Array](./TypeScript/Easy/2024-07-24-merge-sort-array.ts) (TypeScript, Easy) - July 24, 2024
+4. [1. Two Sum](./TypeScript/Easy/2024-07-24-two-sum.ts) (TypeScript, Easy) - July 24, 2024
+5. [125. Valid Palindrome](./TypeScript/Easy/2024-07-23-valid-palindrome.ts) (TypeScript, Easy) - July 23, 2024
 
 ## Learning Log
 

@@ -11,8 +11,22 @@
 - Regular expressions are useful for string manipulation and cleaning in various programming languages.
 - Palindrome checking can be implemented efficiently using string reversal or two-pointer technique.
 - Implementing solutions in multiple languages reinforces understanding and highlights language-specific features.
+- Single-pass algorithms can often provide efficient solutions to array manipulation problems.
 
 ### Entries
+
+#### 2024-07-31 - [Second Maximum Number in an Array](./Java/Easy/2024-07-31-second-maximum-number.java)
+- Implemented a solution to find the second maximum number in an array using Java.
+- Used ArrayList for dynamic array manipulation in Java.
+- Implemented a single-pass algorithm for efficiency, achieving O(n) time complexity.
+- Learned about handling edge cases such as empty arrays and arrays with a single element.
+- Explored the use of Java's ArrayList methods for array manipulation.
+
+#### 2024-07-30 - [Second Maximum Number in an Array](./JavaScript/Easy/2024-07-30-second-maximum-number.js)
+- Solved the Second Maximum Number problem in JavaScript.
+- Implemented a single-pass algorithm to find the second maximum number efficiently.
+- Practiced handling edge cases, such as arrays with fewer than two elements.
+- Achieved O(n) time complexity and O(1) space complexity.
 
 #### 2024-07-24 - [Merge Sorted Array](./TypeScript/Easy/2024-07-24-merge-sort-array.ts)
 - Implemented the Merge Sorted Array problem in TypeScript.
@@ -26,8 +40,6 @@
 - Utilized TypeScript's Map object for efficient lookups.
 - Achieved O(n) time complexity by making only one pass through the array.
 - Reinforced the importance of choosing the right data structure for optimal performance.
-
-[Previous entries remain...]
 
 #### 2024-07-23 - [Valid Palindrome](./TypeScript/Easy/2024-07-23-valid-palindrome.ts)
 - Implemented a solution for checking if a string is a valid palindrome in TypeScript.
